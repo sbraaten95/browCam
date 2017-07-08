@@ -1,0 +1,1 @@
+This extension allows you to have a small box on your browser that holds what is on your computer camera.
